@@ -1,2 +1,3 @@
-# Bangalore-House-Price-Pred
-A through Analysis of the Bangalore_house_prices data from Kaggle, builing a model on it and deploying it on a Heroku Python Flask based Web Server.
+# Bangalore-House-Price-Prediction
+
+Complete analysis of Bangalore house price data: Data Cleaning, Outlier Removal, Feature Engineering, and Dimensionality Reduction, Building a Machine Learning Model, deploying it on Flask Server.
